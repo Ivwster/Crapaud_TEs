@@ -36,3 +36,6 @@ The last scripts were used for various small functions throughout the study:
 **filter_fasta_notinlist.py**, Similar to the filter_fasta.py script but instead only keeps the sequences not in the list. 
 
 **GC_fullsequence.py**, Calculated the GC-content of sequences in a fasta file
+
+
+**supporting_files.zip**, Important files generated during the study
